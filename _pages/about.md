@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a undergraduate student studying College of Information Science and Engineering(信息科学与工程学院),  Hohai University([河海大学](https://en.wikipedia.org/wiki/Hohai_University)).
+I am an undergraduate student studying College of Information Science and Engineering(信息科学与工程学院),  Hohai University([河海大学](https://en.wikipedia.org/wiki/Hohai_University)).
 
 My major is Computer Science and Technology(计算机科学与技术), with an average course grade of 87.69/100. 
 
@@ -39,6 +39,12 @@ In terms of competitions, I have won one national-level award, one provincial-le
 ![](/images/tibia-segmentation.png){:width="300px" style="display: block; margin: auto"}
 
 We employed the SAM model for simple annotation of the existing dataset and utilized U-Net for training and prediction. To obtain the tibial midline, we connected the midpoint at the top of the mask with the midpoint of the middle segment. The actual algorithm demonstrated good robustness and recognition performance on the dataset.
+
+- *2023.3(Be ongoing)* Intelligent River Digital Twin Practice Based on WISE-PaaS Cloud
+
+![](/images/wise-paas.png){:width="300px" style="display: block; margin: auto"}
+
+The project is based on the Advantech WISE-PaaS Industrial IoT Cloud platform and focuses on the study of digital twins for intelligent rivers. It aims to monitor and assess target rivers in real-time, ultimately establishing a platform for real-time monitoring and assessment of intelligent rivers.
 
 # 🎖 Honors and Awards
 - *2023.07* China College Student Service Outsourcing Innovation and Entrepreneurship Competition([中国大学生服务外包创新创业大赛](http://www.fwwb.org.cn/)), 3rd Prize.
