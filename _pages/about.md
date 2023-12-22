@@ -30,7 +30,7 @@ In terms of competitions, I have won one national-level award, one provincial-le
 # 🔥 News
 [^_^]: #- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📝 Project 
+# 📝 Projects
 
 - *2023.12* Tibial Midline Recognition Technology Based on U-Net
 
