@@ -32,9 +32,12 @@ In terms of competitions, I have won one national-level award, one provincial-le
 
 # 📝 Project 
 
-- Tibial Midline Recognition Technology Based on U-Net
-![](/images/u-net-architecture.png)
-![](/images/tibia-segmentation.png)
+- *2023.12* Tibial Midline Recognition Technology Based on U-Net
+
+![](/images/u-net-architecture.png){:height="300px"}
+
+![](/images/tibia-segmentation.png){:height="300px"}
+
 We employed the SAM model for simple annotation of the existing dataset and utilized U-Net for training and prediction. To obtain the tibial midline, we connected the midpoint at the top of the mask with the midpoint of the middle segment. The actual algorithm demonstrated good robustness and recognition performance on the dataset.
 
 # 🎖 Honors and Awards
