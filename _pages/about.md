@@ -40,7 +40,13 @@ In terms of competitions, I have won one national-level award, one provincial-le
 
 We employed the SAM model for simple annotation of the existing dataset and utilized U-Net for training and prediction. To obtain the tibial midline, we connected the midpoint at the top of the mask with the midpoint of the middle segment. The actual algorithm demonstrated good robustness and recognition performance on the dataset.
 
-- *2023.3(Be ongoing)* Intelligent River Digital Twin Practice Based on WISE-PaaS Cloud
+- *2023.06* Intelligent Recognition and Retrieval System for Medical Documents
+
+![](/images/yizhigu-1.png){:width="300px" style="display: block; margin: auto"}
+
+The system is based on the Spring Boot and Vue frameworks, incorporating numerous technologies such as WebSocket, Redis caching, RabbitMQ message queuing, and Elasticsearch distributed searching. The purpose is to facilitate document verification, retrieval, automatic archiving, and functions such as Optical Character Recognition (OCR) from images, text classification (BERT), and translation (openNMT). I am primarily responsible for the construction of the front-end and back-end, as well as the deployment of the entire project.
+
+- *2023.03(Be ongoing)* Intelligent River Digital Twin Practice Based on WISE-PaaS Cloud
 
 ![](/images/wise-paas.png){:width="300px" style="display: block; margin: auto"}
 
@@ -54,7 +60,7 @@ The project is based on the Advantech WISE-PaaS Industrial IoT Cloud platform an
 
 # 📖 Educations
 - *2021.06 - 2025.04 (now)*, College of Information Science and Engineering, Hohai University. 
-- 2018.09 - 2021.06, Guangdong Overseas Chinese High School, GuangZhou.
+- *2018.09 - 2021.06*, Guangdong Overseas Chinese High School, GuangZhou.
 
 
 [^_^]: # 💻 Internships
