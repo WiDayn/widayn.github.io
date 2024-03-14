@@ -32,6 +32,12 @@ In terms of competitions, I have won one national-level award, one provincial-le
 
 # 📝 Projects
 
+- *2024.03(now working)* Localization of Vertebral Levels on Fluoroscopy via Semi-supervised Abductive Learning
+
+![](/images/Localization_fig1.jpg){:width="300px" style="display: block; margin: auto"}
+
+
+
 - *2023.12* Tibial Midline Recognition Technology Based on U-Net
 
 ![](/images/u-net-architecture.png){:width="300px" style="display: block; margin: auto"}
