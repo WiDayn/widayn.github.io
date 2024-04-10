@@ -32,7 +32,19 @@ In terms of competitions, I have won one national-level award, one provincial-le
 
 # 📝 Projects
 
-- *2024.03(now working)* Localization of Vertebral Levels on Fluoroscopy via Semi-supervised Abductive Learning
+- *2024.04(Now Working, Cooperating with NEAU)* Field-Road Classification Based on Pixel Mapping
+
+Still working...
+
+- *2024.04(Now Working)* CT Lumbar Spine Segmentation with nnU-Net
+
+![](/images/ct_lumbar_segmentation_1.png){:width="300px" style="display: block; margin: auto"}
+
+![](/images/ct_lumbar_segmentation_2.png){:width="300px" style="display: block; margin: auto"}
+
+We developed a CT lumbar spine segmentation approach using nnU-Net, focusing on a level of detail not found in current datasets. By annotating nine datasets to differentiate each part within the vertebrae—unlike existing datasets that segment the vertebral body as a whole—my work supports more accurate surgical planning for procedures such as pedicle screw fixation, leading to safer and more precise interventions.
+
+- *2024.03(Pending Review)* Localization of Vertebral Levels on Fluoroscopy via Semi-supervised Abductive Learning
 
 ![](/images/Localization_fig1.jpg){:width="300px" style="display: block; margin: auto"}
 
