@@ -21,7 +21,7 @@ I am an undergraduate student studying College of Information Science and Engine
 
 My major is Computer Science and Technology(计算机科学与技术), with an average course grade of 87.69/100. 
 
-I primarily worked under the guidance of university professors on medical image processing. I participated in several projects and tasks at the ChangZhou Key Laboratory of Digital Technology on Graphics and Orthopaedic implants([常州市图形图像与骨科植入物数字化技术重点实验室](https://dtgoi.hhu.edu.cn/main.htm)). My work involved 3D/2D registration, object detection, and image segmentation.
+I primarily worked under the guidance of JunFeng Jiang on medical image processing. I participated in several projects and tasks at the ChangZhou Key Laboratory of Digital Technology on Graphics and Orthopaedic implants([常州市图形图像与骨科植入物数字化技术重点实验室](https://dtgoi.hhu.edu.cn/main.htm)). My work involved 3D/2D registration, object detection, and image segmentation.
 
 I was involved in three College Students’ Innovation Program projects, one of which was at the national level and two at the university level. During my time at the university, I received multiple university-level scholarships.
 
@@ -36,7 +36,7 @@ In terms of competitions, I have won one national-level award, one provincial-le
 
 Still working...
 
-- *2024.04(Now Working)* CT Lumbar Spine Segmentation with nnU-Net
+- *2024.04* CT Lumbar Spine Segmentation with nnU-Net
 
 ![](/images/ct_lumbar_segmentation_1.png){:width="300px" style="display: block; margin: auto"}
 
@@ -70,16 +70,18 @@ Our method combines visual object detection with first-order logic predicate rea
 
 The system is based on the Spring Boot and Vue frameworks, incorporating numerous technologies such as WebSocket, Redis caching, RabbitMQ message queuing, and Elasticsearch distributed searching. The purpose is to facilitate document verification, retrieval, automatic archiving, and functions such as Optical Character Recognition (OCR) from images, text classification (BERT), and translation (openNMT). I am primarily responsible for the construction of the front-end and back-end, as well as the deployment of the entire project.
 
-- *2023.03(Be ongoing)* Intelligent River Digital Twin Practice Based on WISE-PaaS Cloud
+- *2023.03* Intelligent River Digital Twin Practice Based on WISE-PaaS Cloud
 
 ![](/images/wise-paas.png){:width="300px" style="display: block; margin: auto"}
 
 The project is based on the Advantech WISE-PaaS Industrial IoT Cloud platform and focuses on the study of digital twins for intelligent rivers. It aims to monitor and assess target rivers in real-time, ultimately establishing a platform for real-time monitoring and assessment of intelligent rivers.
 
 # 🎖 Honors and Awards
+- *2023.09* 2022-2023 Hohai University Scholarship for Academic Progress
 - *2023.07* The 14th China College Student Service Outsourcing Innovation and Entrepreneurship Competition([中国大学生服务外包创新创业大赛](http://www.fwwb.org.cn/)), 3rd Prize.
 - *2023.05* The 2023 ICPC Jiangsu Provincial Programming Contest, Bronze Prize. 
-- *2022.05* The 22th Hohai University Algorithm Design Creativity Show, 1rd Prize. 
+- *2022.09* 2021-2022 Hohai University Scholarship for Academic Progress
+- *2022.05* The 22th Hohai University Algorithm Design Creativity Show, 1rd Prize.
 - *2021.12* The 10th Hohai University Programming Contest, 1rd Prize. 
 
 # 📖 Educations
