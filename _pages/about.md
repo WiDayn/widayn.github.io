@@ -77,10 +77,11 @@ The system is based on the Spring Boot and Vue frameworks, incorporating numerou
 The project is based on the Advantech WISE-PaaS Industrial IoT Cloud platform and focuses on the study of digital twins for intelligent rivers. It aims to monitor and assess target rivers in real-time, ultimately establishing a platform for real-time monitoring and assessment of intelligent rivers.
 
 # 🎖 Honors and Awards
-- *2023.09* 2022-2023 Hohai University Scholarship for Academic Progress
+- *2024.05* 15th LanQiao Cup Jiangsu Province Competition Region, 1rd Prize.
+- *2023.09* 2022-2023 Hohai University Scholarship for Academic Progress.
 - *2023.07* The 14th China College Student Service Outsourcing Innovation and Entrepreneurship Competition([中国大学生服务外包创新创业大赛](http://www.fwwb.org.cn/)), 3rd Prize.
 - *2023.05* The 2023 ICPC Jiangsu Provincial Programming Contest, Bronze Prize. 
-- *2022.09* 2021-2022 Hohai University Scholarship for Academic Progress
+- *2022.09* 2021-2022 Hohai University Scholarship for Academic Progress.
 - *2022.05* The 22th Hohai University Algorithm Design Creativity Show, 1rd Prize.
 - *2021.12* The 10th Hohai University Programming Contest, 1rd Prize. 
 
