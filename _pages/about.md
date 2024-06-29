@@ -90,5 +90,5 @@ The project is based on the Advantech WISE-PaaS Industrial IoT Cloud platform an
 - *2018.09 - 2021.06*, Guangdong Overseas Chinese High School, GuangZhou.
 
 
-[^_^]: # 💻 Internships
-[^_^]: # - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Internships
+- *2024.06 - 2025.04 (now)*, SuZhou Institute of Biomedical Engineering and Technology Chinese Academy of Sciences[(中国科学院苏州生物医学工程技术研究所)](https://sibet.cas.cn/), China.
