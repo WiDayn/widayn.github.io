@@ -86,7 +86,7 @@ The project is based on the Advantech WISE-PaaS Industrial IoT Cloud platform an
 - *2021.12* The 10th Hohai University Programming Contest, 1rd Prize. 
 
 # 📖 Educations
-- *2021.06 - 2025.04 (now)*, College of Information Science and Engineering, Hohai University. 
+- *2021.09 - 2025.06 (now)*, College of Computer Science and Software Engineering, Hohai University. 
 - *2018.09 - 2021.06*, Guangdong Overseas Chinese High School, GuangZhou.
 
 
