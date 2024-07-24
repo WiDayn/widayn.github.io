@@ -39,13 +39,13 @@ In terms of competitions, I have won one national-level award, one provincial-le
 We developed a comprehensive system for analyzing fraudulent applications, utilizing the Vue+SpringBoot architecture. My primary focus was on APK analysis, where I implemented dynamic analysis using emulator tools and MITMProxy. Additionally, I employed JADX and Selenium to facilitate APK download and static parsing. Moreover, I actively contributed to the design of the system architecture, as well as its overall integration and coordination.
 - *2024.04(Now Working, Cooperating with NEAU)* Field-Road Classification Based on Pixel Mapping
 
-![](/images/wheat_prediction.png){:width="400px" style="display: block; margin: auto"}
+![](/images/wheat_prediction.png){:width="300px" style="display: block; margin: auto"}
 
 We proposed a precision farmland road segmentation algorithm based on Swin-Unet, aiming to achieve accurate classification of field roads and support real-time visualization with satellite maps. Through steps such as data filtering, image mapping, and Swin-Unet pixel-level classification, this method effectively integrates detailed statistical features of each GNSS point with visual features, thereby improving the accuracy and reliability of traditional farmland road segmentation methods that rely solely on visual information. Experimental results demonstrate that this algorithm achieves promising results in segmentation tasks.
 
 - *2024.04* CT Lumbar Spine Segmentation with nnU-Net
 
-![](/images/ct_lumbar_segmentation_1.png){:width="400px" style="display: block; margin: auto"}
+![](/images/ct_lumbar_segmentation_1.png){:width="300px" style="display: block; margin: auto"}
 
 We developed a CT lumbar spine segmentation approach using nnU-Net, focusing on a level of detail not found in current datasets. By annotating nine datasets to differentiate each part within the vertebrae—unlike existing datasets that segment the vertebral body as a whole—my work supports more accurate surgical planning for procedures such as pedicle screw fixation, leading to safer and more precise interventions.
 
