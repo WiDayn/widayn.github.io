@@ -21,7 +21,7 @@ I am an undergraduate student studying at College of Computer Science and Softwa
 
 My major is Computer Science and Technology(计算机科学与技术), with an average course grade of 87.78/100. 
 
-I primarily worked under the guidance of Prof. JunFeng Jiang on medical image processing. I participated in several projects and tasks at the ChangZhou Key Laboratory of Digital Technology on Graphics and Orthopaedic implants([常州市图形图像与骨科植入物数字化技术重点实验室](https://dtgoi.hhu.edu.cn/main.htm)). My work involved 3D/2D registration, object detection, and image segmentation.
+I primarily worked under the guidance of Prof. JunFeng Jiang on medical image processing. I participated in several projects and tasks at the ChangZhou Key Laboratory of Digital Technology on Graphics and Orthopaedic implants([常州市图形图像与骨科植入物数字化技术重点实验室](https://dtgoi.hhu.edu.cn/main.htm)) and SuZhou Institute of Biomedical Engineering and Technology Chinese Academy of Sciences([中国科学院苏州生物医学工程技术研究所]("https://sibet.cas.cn/")). My work involved 3D/2D registration, object detection, and image segmentation.
 
 I was involved in three College Students’ Innovation Program projects, one of which was at the national level and two at the university level. During my time at the university, I received multiple university-level scholarships.
 
@@ -31,6 +31,12 @@ In terms of competitions, I have won one national-level award, one provincial-le
 [^_^]: #- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Projects
+
+- *2024.07* Fraud APP intelligent identification and analysis system
+
+![](/images/cnsoft_1.png){:width="300px" style="display: block; margin: auto"}
+
+We have developed a comprehensive system for analyzing fraudulent applications, which utilizes the Vue+SpringBoot architecture. My primary responsibility was conducting APK analysis, where I implemented dynamic analysis using simulator tools and MITMProxy. Additionally, I utilized JADX and Selenium to facilitate APK download and static parsing. Furthermore, I actively contributed to the design of the system architecture as well as its overall integration and coordination.
 
 - *2024.04(Now Working, Cooperating with NEAU)* Field-Road Classification Based on Pixel Mapping
 
