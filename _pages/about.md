@@ -36,7 +36,7 @@ In terms of competitions, I have won one national-level award, one provincial-le
 
 ![](/images/cnsoft_1.png){:width="300px" style="display: block; margin: auto"}
 
-We have developed a comprehensive system for analyzing fraudulent applications, which utilizes the Vue+SpringBoot architecture. My primary responsibility was conducting APK analysis, where I implemented dynamic analysis using simulator tools and MITMProxy. Additionally, I utilized JADX and Selenium to facilitate APK download and static parsing. Furthermore, I actively contributed to the design of the system architecture as well as its overall integration and coordination.
+We developed a comprehensive system for analyzing fraudulent applications, which utilizes the Vue+SpringBoot architecture. I mainly realized APK analysis, where implemented dynamic analysis using simulator tools and MITMProxy. Additionally, I utilized JADX and Selenium to facilitate APK download and static parsing. Furthermore, I actively contributed to the design of the system architecture as well as its overall integration and coordination.
 
 - *2024.04(Now Working, Cooperating with NEAU)* Field-Road Classification Based on Pixel Mapping
 
