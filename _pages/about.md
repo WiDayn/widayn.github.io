@@ -31,7 +31,6 @@ In terms of competitions, I have won one national-level award, one provincial-le
 [^_^]: #- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Projects
-
 - *2024.07* Fraud APP intelligent identification and analysis system
 
 ![](/images/cnsoft_1.png){:width="400px" style="display: block; margin: auto"}
@@ -49,11 +48,11 @@ We proposed a precision farmland road segmentation algorithm based on Swin-Unet,
 
 We developed a CT lumbar spine segmentation approach using nnU-Net, focusing on a level of detail not found in current datasets. By annotating nine datasets to differentiate each part within the vertebrae—unlike existing datasets that segment the vertebral body as a whole—my work supports more accurate surgical planning for procedures such as pedicle screw fixation, leading to safer and more precise interventions.
 
-- *2024.03(Under Review)* Localization of Vertebral Levels on Fluoroscopy via Semi-supervised Abductive Learning
+- *2024.03(Under Review)* ABLSpineLevelCheck: Localization of Vertebral Levels on Fluoroscopy via Semi-supervised Abductive Learning
 
 ![](/images/Localization_fig1.jpg){:width="400px" style="display: block; margin: auto"}
 
-
+Deep learning has demonstrated promising efficacy in the localization of vertebrae within X-ray imagery, although it is recognized for its deficiencies in compositional generalization, data efficiency, and interpretability. To address this issue, we introduce an abductive learning mechanism, situated within the neuro-symbolic paradigm, tailored for semi-supervised vertebral localization. Initially, unannotated spinal fluoroscopic images are processed by the networks to infer pseudo-labels for vertebra localization. Subsequently, these pseudo-labels undergo abductive reasoning via a knowledge base comprised of first-order logical clauses. The networks are then retrained utilizing the abducted outcomes. Additionally, we propose an ensemble technique that amalgamates semantic detection of vertebral levels with instance detection. To further augment performance, we have synthesized a dataset and annotated the BUU dataset for network pretraining. Ablation studies validate the efficacy of the proposed components in our methodology. Furthermore, comparative analyses reveal that our approach significantly surpasses leading object detection algorithms, exhibiting superior performance with minimal annotations.
 
 - *2023.12* Tibial Midline Recognition Technology Based on U-Net
 
