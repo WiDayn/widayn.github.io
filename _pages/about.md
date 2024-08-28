@@ -25,7 +25,7 @@ I primarily worked under the guidance of Prof. JunFeng Jiang on medical image pr
 
 I was involved in three College Students’ Innovation Program projects, one of which was at the national level and two at the university level. During my time at the university, I received multiple university-level scholarships.
 
-In terms of competitions, I have won one national-level award, one provincial-level award, and several university-level awards.
+In terms of competitions, I have won two national-level award, two provincial-level award, and several university-level awards.
 
 # 🔥 News
 [^_^]: #- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -83,6 +83,7 @@ The system is based on the Spring Boot and Vue frameworks, incorporating numerou
 The project is based on the Advantech WISE-PaaS Industrial IoT Cloud platform and focuses on the study of digital twins for intelligent rivers. It aims to monitor and assess target rivers in real-time, ultimately establishing a platform for real-time monitoring and assessment of intelligent rivers.
 
 # 🎖 Honors and Awards
+- *2024.08* 13th China Software Cup, 3rd Prize.
 - *2024.05* 15th LanQiao Cup Jiangsu Province Competition Region, 1rd Prize.
 - *2023.09* 2022-2023 Hohai University Scholarship for Academic Progress.
 - *2023.07* The 14th China College Student Service Outsourcing Innovation and Entrepreneurship Competition([中国大学生服务外包创新创业大赛](http://www.fwwb.org.cn/)), 3rd Prize.
