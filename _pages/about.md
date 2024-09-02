@@ -34,14 +34,18 @@ In terms of competitions, I have won two national-level award, two provincial-le
 
 # 📝 Projects
 
-- *2024.08* Fraud APP intelligent identification and analysis system
+- *2024.08* CT section segmentation of nasopharynx
+
+![](/images/nasopharynx.png){:width="400px" style="display: block; margin: auto"}
+
+The ethmoidal chamber of the posterior frontal sinus is a possible structure in the frontal sinus, located in the last part of the frontal sinus, and is highly associated with the risk of chronic sinusitis. Wehopetodetermine whether the patient has this structure through the segmentation of CT sections, so as to achieve the purpose of assisting doctors in diagnosis.
 
 - *2024.07* Fraud APP intelligent identification and analysis system
 
 ![](/images/cnsoft_1.png){:width="400px" style="display: block; margin: auto"}
 
 We developed a comprehensive system for analyzing fraudulent applications, utilizing the Vue+SpringBoot architecture. My primary focus was on APK analysis, where I implemented dynamic analysis using emulator tools and MITMProxy. Additionally, I employed JADX and Selenium to facilitate APK download and static parsing. Moreover, I actively contributed to the design of the system architecture, as well as its overall integration and coordination.
-- *2024.04(Now Working, Cooperating with NEAU)* Field-Road Classification Based on Pixel Mapping
+- *2024.04* Field-Road Classification Based on Pixel Mapping
 
 ![](/images/wheat_prediction.png){:width="300px" style="display: block; margin: auto"}
 
