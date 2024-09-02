@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an undergraduate student studying at College of Computer Science and Software Engineering(计算机与软件学院),  Hohai University([河海大学](https://en.wikipedia.org/wiki/Hohai_University)).
+I am an undergraduate student studying at College of Computer Science and Software Engineering,  Hohai University([河海大学](https://en.wikipedia.org/wiki/Hohai_University)).
 
-My major is Computer Science and Technology(计算机科学与技术), with an average course grade of 87.78/100. 
+My major is Computer Science and Technology, with an average course grade of 87.78/100. 
 
 I primarily worked under the guidance of Prof. JunFeng Jiang on medical image processing. I participated in several projects and tasks at the ChangZhou Key Laboratory of Digital Technology on Graphics and Orthopaedic implants([常州市图形图像与骨科植入物数字化技术重点实验室](https://dtgoi.hhu.edu.cn/main.htm)) and SuZhou Institute of Biomedical Engineering and Technology Chinese Academy of Sciences([中国科学院苏州生物医学工程技术研究所]("https://sibet.cas.cn/")). My work involved 3D/2D registration, object detection, and image segmentation.
 
@@ -27,10 +27,15 @@ I was involved in three College Students’ Innovation Program projects, one of 
 
 In terms of competitions, I have won two national-level award, two provincial-level award, and several university-level awards.
 
+![](/images/research_field.png){:width="400px" style="display: block; margin: auto"}
+
 # 🔥 News
 [^_^]: #- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Projects
+
+- *2024.08* Fraud APP intelligent identification and analysis system
+
 - *2024.07* Fraud APP intelligent identification and analysis system
 
 ![](/images/cnsoft_1.png){:width="400px" style="display: block; margin: auto"}
@@ -45,6 +50,8 @@ We proposed a precision farmland road segmentation algorithm based on Swin-Unet,
 - *2024.04* CT Lumbar Spine Segmentation with nnU-Net
 
 ![](/images/ct_lumbar_segmentation_1.png){:width="300px" style="display: block; margin: auto"}
+
+![](/images/pedicle_screw_planning.png){:width="300px" style="display: block; margin: auto"}
 
 We developed a CT lumbar spine segmentation approach using nnU-Net, focusing on a level of detail not found in current datasets. By annotating nine datasets to differentiate each part within the vertebrae—unlike existing datasets that segment the vertebral body as a whole—my work supports more accurate surgical planning for procedures such as pedicle screw fixation, leading to safer and more precise interventions.
 
