@@ -34,6 +34,8 @@ In terms of competitions, I have won two national-level award, two provincial-le
 
 # 📝 Projects
 
+- *2024.08* (In method planning) The clinical application of accurate measurement and 3D modeling of the whole spine based on artificial intelligence in kyphosis osteotomy surgery
+
 - *2024.08* (Now working) Classification of capsular breakthrough in thyroid cancer
 
 We obtained 11 sequences of MRI images, and constructed a new classification network based on mamba, which exceeded the existing classification models on this task. In the next step, we will introduce a new method on multi-modal fusion to further improve its performance. This work was carried out in cooperation with Lishui Central Hospital.
