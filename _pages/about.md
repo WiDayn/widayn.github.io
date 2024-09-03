@@ -34,11 +34,19 @@ In terms of competitions, I have won two national-level award, two provincial-le
 
 # 📝 Projects
 
-- *2024.08* CT section segmentation of nasopharynx
+- *2024.08* (Now working) Classification of capsular breakthrough in thyroid cancer
+
+We obtained 11 sequences of MRI images, and constructed a new classification network based on mamba, which exceeded the existing classification models on this task. In the next step, we will introduce a new method on multi-modal fusion to further improve its performance. This work was carried out in cooperation with Lishui Central Hospital.
+
+- *2024.08* (Now working) Segmentation of HCC and prediction of MVI
+
+We want to build a new multitask network that can perform HCC detection/segmentation and MVI judgment simultaneously, and we want to use newer network modules such as Mamba to accomplish this task. This work is carried out in cooperation with the Radiology Department of the First Affiliated Hospital of Soochow University.
+
+- *2024.08* (Now working) CT section segmentation of nasopharynx
 
 ![](/images/nasopharynx.png){:width="400px" style="display: block; margin: auto"}
 
-The ethmoidal chamber of the posterior frontal sinus is a possible structure in the frontal sinus, located in the last part of the frontal sinus, and is highly associated with the risk of chronic sinusitis. Wehopetodetermine whether the patient has this structure through the segmentation of CT sections, so as to achieve the purpose of assisting doctors in diagnosis.
+The ethmoidal chamber of the posterior frontal sinus is a possible structure in the frontal sinus, located in the last part of the frontal sinus, and is highly associated with the risk of chronic sinusitis. Wehopetodetermine whether the patient has this structure through the segmentation of CT sections, so as to achieve the purpose of assisting doctors in diagnosis. This work is in cooperation with the Department of Otolaryngology of Nanjing Tongren Hospital.
 
 - *2024.07* Fraud APP intelligent identification and analysis system
 
