@@ -44,7 +44,7 @@ We obtained 11 sequences of MRI images, and constructed a new classification net
 
 We want to build a new multitask network that can perform HCC detection/segmentation and MVI judgment simultaneously, and we want to use newer network modules such as Mamba to accomplish this task. This work is carried out in cooperation with the Radiology Department of the First Affiliated Hospital of Soochow University.
 
-- *2024.08* (Now working) CT section segmentation of nasopharynx
+- *2024.08* (Writing Stage) CT section segmentation of nasopharynx
 
 ![](/images/nasopharynx.png){:width="400px" style="display: block; margin: auto"}
 
