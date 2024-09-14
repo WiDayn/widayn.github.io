@@ -107,13 +107,13 @@ The project is based on the Advantech WISE-PaaS Industrial IoT Cloud platform an
 
 # 🎖 Honors and Awards
 - *2024.08* 13th China Software Cup, 3rd Prize.
-- *2024.05* 15th LanQiao Cup Jiangsu Province Competition Region, 1rd Prize.
+- *2024.05* 15th LanQiao Cup Jiangsu Province Competition Region, 1st Prize.
 - *2023.09* 2022-2023 Hohai University Scholarship for Academic Progress.
 - *2023.07* The 14th China College Student Service Outsourcing Innovation and Entrepreneurship Competition([中国大学生服务外包创新创业大赛](http://www.fwwb.org.cn/)), 3rd Prize.
 - *2023.05* The 2023 ICPC Jiangsu Provincial Programming Contest, Bronze Prize. 
 - *2022.09* 2021-2022 Hohai University Scholarship for Academic Progress.
-- *2022.05* The 22th Hohai University Algorithm Design Creativity Show, 1rd Prize.
-- *2021.12* The 10th Hohai University Programming Contest, 1rd Prize. 
+- *2022.05* The 22th Hohai University Algorithm Design Creativity Show, 1st Prize.
+- *2021.12* The 10th Hohai University Programming Contest, 1st Prize. 
 
 # 📖 Educations
 - *2021.09 - 2025.06 (now)*, College of Computer Science and Software Engineering, Hohai University. 
@@ -121,4 +121,4 @@ The project is based on the Advantech WISE-PaaS Industrial IoT Cloud platform an
 
 
 # 💻 Internships
-- *2024.06 - 2025.04 (now)*, SuZhou Institute of Biomedical Engineering and Technology Chinese Academy of Sciences[(中国科学院苏州生物医学工程技术研究所)](https://sibet.cas.cn/), China.
+- *2024.06 - 2025.04 (now)*, Visiting Student, SuZhou Institute of Biomedical Engineering and Technology Chinese Academy of Sciences[(中国科学院苏州生物医学工程技术研究所)](https://sibet.cas.cn/), China.
