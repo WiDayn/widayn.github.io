@@ -21,7 +21,7 @@ I am an undergraduate student studying at College of Computer Science and Softwa
 
 My major is Computer Science and Technology, with an average course grade of 87.78/100. 
 
-I primarily worked under the guidance of Prof. JunFeng Jiang on medical image processing. I participated in several projects and tasks at the ChangZhou Key Laboratory of Digital Technology on Graphics and Orthopaedic implants([常州市图形图像与骨科植入物数字化技术重点实验室](https://dtgoi.hhu.edu.cn/main.htm)) and SuZhou Institute of Biomedical Engineering and Technology Chinese Academy of Sciences([中国科学院苏州生物医学工程技术研究所]("https://sibet.cas.cn/")). My work involved 3D/2D registration, object detection, and image segmentation.
+I primarily worked on medical image processing. I participated in several projects and tasks at the ChangZhou Key Laboratory of Digital Technology on Graphics and Orthopaedic implants([常州市图形图像与骨科植入物数字化技术重点实验室](https://dtgoi.hhu.edu.cn/main.htm)) and SuZhou Institute of Biomedical Engineering and Technology Chinese Academy of Sciences([中国科学院苏州生物医学工程技术研究所]("https://sibet.cas.cn/")). My work involved 3D/2D registration, object detection, and image segmentation.
 
 I was involved in three College Students’ Innovation Program projects, one of which was at the national level and two at the university level. During my time at the university, I received multiple university-level scholarships.
 
@@ -36,6 +36,8 @@ In terms of competitions, I have won two national-level award, two provincial-le
 
 - *2024.08* (In method planning) The clinical application of accurate measurement and 3D modeling of the whole spine based on artificial intelligence in kyphosis osteotomy surgery
 
+![](/images/osteotomy-workflow-1.png){:width="400px" style="display: block; margin: auto"}
+
 - *2024.08* (Now working) Classification of capsular breakthrough in thyroid cancer
 
 We obtained 11 sequences of MRI images, and constructed a new classification network based on mamba, which exceeded the existing classification models on this task. In the next step, we will introduce a new method on multi-modal fusion to further improve its performance. This work was carried out in cooperation with Lishui Central Hospital.
@@ -44,7 +46,7 @@ We obtained 11 sequences of MRI images, and constructed a new classification net
 
 We want to build a new multitask network that can perform HCC detection/segmentation and MVI judgment simultaneously, and we want to use newer network modules such as Mamba to accomplish this task. This work is carried out in cooperation with the Radiology Department of the First Affiliated Hospital of Soochow University.
 
-- *2024.08* (Writing Stage) CT section segmentation of nasopharynx
+- *2024.07* (Writing Stage) CT section segmentation of nasopharynx
 
 ![](/images/nasopharynx.png){:width="400px" style="display: block; margin: auto"}
 
