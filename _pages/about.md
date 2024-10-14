@@ -32,6 +32,9 @@ In terms of competitions, I have won two national-level award, two provincial-le
 # 🔥 News
 [^_^]: #- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
+- *2024.10*: &nbsp;🎉🎉 One paper was accepted by [BIBM24](https://ieeebibm.org/BIBM2024/) as short paper.(Acceptance Rate: 21%)
+
+
 # 📝 Projects
 
 - *2024.08* (In method planning) The clinical application of accurate measurement and 3D modeling of the whole spine based on artificial intelligence in kyphosis osteotomy surgery
@@ -113,7 +116,7 @@ The project is based on the Advantech WISE-PaaS Industrial IoT Cloud platform an
 - *2023.05* The 2023 ICPC Jiangsu Provincial Programming Contest, Bronze Prize. 
 - *2022.09* 2021-2022 Hohai University Scholarship for Academic Progress.
 - *2022.05* The 22th Hohai University Algorithm Design Creativity Show, 1st Prize.
-- *2021.12* The 10th Hohai University Programming Contest, 1st Prize. 
+- *2021.12* The 10th Hohai University Programming Contest, 1st Prize.
 
 # 📖 Educations
 - *2021.09 - 2025.06 (now)*, College of Computer Science and Software Engineering, Hohai University. 
