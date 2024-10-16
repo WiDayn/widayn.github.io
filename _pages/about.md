@@ -74,7 +74,7 @@ We proposed a precision farmland road segmentation algorithm based on Swin-Unet,
 
 We developed a CT lumbar spine segmentation approach using nnU-Net, focusing on a level of detail not found in current datasets. By annotating nine datasets to differentiate each part within the vertebrae—unlike existing datasets that segment the vertebral body as a whole—my work supports more accurate surgical planning for procedures such as pedicle screw fixation, leading to safer and more precise interventions.
 
-- *2024.03(Under Review)* ABLSpineLevelCheck: Localization of Vertebral Levels on Fluoroscopy via Semi-supervised Abductive Learning
+- *2024.03([BIBM24](https://ieeebibm.org/BIBM2024/))* ABLSpineLevelCheck: Localization of Vertebral Levels on Fluoroscopy via Semi-supervised Abductive Learning
 
 ![](/images/Localization_fig1.jpg){:width="400px" style="display: block; margin: auto"}
 
