@@ -45,9 +45,11 @@ In terms of competitions, I have won two national-level award, two provincial-le
 
 We obtained 11 sequences of MRI images, and constructed a new classification network based on mamba, which exceeded the existing classification models on this task. In the next step, we will introduce a new method on multi-modal fusion to further improve its performance. This work was carried out in cooperation with Lishui Central Hospital.
 
-- *2024.08* (Now working) Segmentation of HCC and prediction of MVI
+- *2024.08* (Now working) Dual-Energy CT Tumour-infiltrating Lymphocyte (TIL) Prediction in Breast Cancer
 
-We want to build a new multitask network that can perform HCC detection/segmentation and MVI judgment simultaneously, and we want to use newer network modules such as Mamba to accomplish this task. This work is carried out in cooperation with the Radiology Department of the First Affiliated Hospital of Soochow University.
+![](/images/TIL.png){:width="400px" style="display: block; margin: auto"}
+
+Tumour-infiltrating lymphocytes (TILs), as a new prognostic biomarker, are of important clinical value and have an association with improved survival rates and higher response rates to neoadjuvant therapy and immunotherapy in breast cancer. We hope to build a new network that fuses omics/clinical/imaging features to achieve better results. Specifically, we hope to build a multimodal fusion pipeline framework based on CrossTransformer and KNN omics feature screening.
 
 - *2024.07* (Writing Stage) CT section segmentation of nasopharynx
 
