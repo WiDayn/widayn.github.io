@@ -47,7 +47,7 @@ We obtained 11 sequences of MRI images, and constructed a new classification net
 
 - *2024.08* (Writing Stage, 本科毕业论文) Dual-Energy CT Tumour-infiltrating Lymphocyte (TIL) Prediction in Breast Cancer
 
-![](/images/TIL_2.png){:width="400px" style="display: block; margin: auto"}
+![](/images/TIL_2.png){:width="600px" style="display: block; margin: auto"}
 
 Tumour-infiltrating lymphocytes (TILs), as a new prognostic biomarker, are of important clinical value and have an association with improved survival rates and higher response rates to neoadjuvant therapy and immunotherapy in breast cancer. We hope to build a new network that fuses omics/clinical/imaging features to achieve better results. Specifically, we hope to build a multimodal fusion pipeline framework based on CrossTransformer and KNN omics feature screening.
 
