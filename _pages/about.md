@@ -125,6 +125,7 @@ The project is based on the Advantech WISE-PaaS Industrial IoT Cloud platform an
 # 📖 Educations
 - *2021.09 - 2025.06 (now)*, College of Computer Science and Software Engineering, Hohai University. 
 - *2018.09 - 2021.06*, Guangdong Overseas Chinese High School, GuangZhou.
+- *2015.09 - 2018.06*, Guangzhou No.2 Middle School(Main campus), Guangzhou.
 
 
 # 💻 Internships
