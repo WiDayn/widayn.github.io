@@ -129,4 +129,4 @@ The project is based on the Advantech WISE-PaaS Industrial IoT Cloud platform an
 
 
 # 💻 Internships
-- *2024.06 - 2025.04 (now)*, Visiting Student, SuZhou Institute of Biomedical Engineering and Technology Chinese Academy of Sciences[(中国科学院苏州生物医学工程技术研究所)](https://sibet.cas.cn/), China.
+- *2024.06 - 2025.04*, Visiting Student, SuZhou Institute of Biomedical Engineering and Technology Chinese Academy of Sciences[(中国科学院苏州生物医学工程技术研究所)](https://sibet.cas.cn/), China.
