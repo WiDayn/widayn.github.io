@@ -53,7 +53,7 @@ We obtained 11 sequences of MRI images, and constructed a new classification net
 
 Tumour-infiltrating lymphocytes (TILs), as a new prognostic biomarker, are of important clinical value and have an association with improved survival rates and higher response rates to neoadjuvant therapy and immunotherapy in breast cancer. We hope to build a new network that fuses omics/clinical/imaging features to achieve better results. Specifically, we hope to build a multimodal fusion pipeline framework based on CrossTransformer and KNN omics feature screening.
 
-- *2024.07* (Writing Stage) CT section segmentation of nasopharynx
+- *2024.07* (Under Review) CT section segmentation of nasopharynx
 
 ![](/images/nasopharynx.png){:width="400px" style="display: block; margin: auto"}
 
