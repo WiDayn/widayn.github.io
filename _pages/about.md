@@ -42,7 +42,7 @@ In terms of competitions, I have won two national-level award, two provincial-le
 
 ![](/images/radgs.jpg){:width="400px" style="display: block; margin: auto"}
 
-<video width="400px" controls>
+<video width="400px" controls style="display: block; margin: auto">
     <source src="/images/radgs_video.mp4" type="video/mp4">
 </video>
 
