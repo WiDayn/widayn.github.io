@@ -19,13 +19,7 @@ redirect_from:
 
 I am an undergraduate student studying at College of Computer Science and Software Engineering,  Hohai University([河海大学](https://en.wikipedia.org/wiki/Hohai_University)).
 
-My major is Computer Science and Technology, with an average course grade of 87.78/100. 
-
-I primarily worked on medical image processing. I participated in several projects and tasks at the ChangZhou Key Laboratory of Digital Technology on Graphics and Orthopaedic implants([常州市图形图像与骨科植入物数字化技术重点实验室](https://dtgoi.hhu.edu.cn/main.htm)) and SuZhou Institute of Biomedical Engineering and Technology Chinese Academy of Sciences([中国科学院苏州生物医学工程技术研究所]("https://sibet.cas.cn/")). My work involved 3D/2D registration, object detection, and image segmentation.
-
-I was involved in three College Students’ Innovation Program projects, one of which was at the national level and two at the university level. During my time at the university, I received multiple university-level scholarships.
-
-In terms of competitions, I have won two national-level award, two provincial-level award, and several university-level awards.
+My major is Computer Science and Technology. I primarily worked on medical image processing. I participated in several projects and tasks at the ChangZhou Key Laboratory of Digital Technology on Graphics and Orthopaedic implants([常州市图形图像与骨科植入物数字化技术重点实验室](https://dtgoi.hhu.edu.cn/main.htm)) and SuZhou Institute of Biomedical Engineering and Technology Chinese Academy of Sciences([中国科学院苏州生物医学工程技术研究所]("https://sibet.cas.cn/")). My work involved 3D/2D registration, object detection, and image segmentation.
 
 ![](/images/research_field.png){:width="400px" style="display: block; margin: auto"}
 
