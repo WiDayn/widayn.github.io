@@ -32,11 +32,21 @@ In terms of competitions, I have won two national-level award, two provincial-le
 # 🔥 News
 [^_^]: #- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-- *2025.05*: &nbsp;🎉🎉 One paper was accepted by [MICCAI25](https://conferences.miccai.org/2025).(Early accept, acceptance rate: ~11%)
-- *2024.10*: &nbsp;🎉🎉 One paper was accepted by [BIBM24](https://ieeebibm.org/BIBM2024/) as short paper.(Acceptance Rate: 21%)
+- *2025.05*: &nbsp;🎉🎉 One paper was accepted by [MICCAI25](https://conferences.miccai.org/2025)(CCF-B, SCI).(Early accept, acceptance rate: ~11%)
+- *2024.10*: &nbsp;🎉🎉 One paper was accepted by [BIBM24](https://ieeebibm.org/BIBM2024/)(CCF-B) as short paper.(Acceptance rate: 21%)
 
 
 # 📝 Projects
+
+- *2025.05* ([MICCAI25](https://conferences.miccai.org/2025)) RadGS-Reg: Registering Spine CT with Biplanar X-rays via Joint 3D Radiative Gaussians Reconstruction and 3D/3D Registration
+
+![](/images/radgs.jpg){:width="400px" style="display: block; margin: auto"}
+
+<video width="400px" controls>
+    <source src="/images/radgs_video.mp4" type="video/mp4">
+</video>
+
+- Computed Tomography (CT)/X-ray registration in image-guided navigation remains challenging because of its stringent requirements for high accuracy and real-time performance. Traditional "render and compare" methods, relying on iterative projection and comparison, suffer from spatial information loss and domain gap. 3D reconstruction from biplanar X-rays supplements spatial and shape information for 2D/3D registration, but current methods are limited by dense-view requirements and struggles with noisy X-rays. To address these limitations, we introduce RadGS-Reg, a novel framework for vertebral-level CT/X-ray registration through joint 3D Radiative Gaussians (RadGS) reconstruction and 3D/3D registration. Specifically, our biplanar X-rays vertebral RadGS reconstruction module explores learning-based RadGS reconstruction method with a Counterfactual Attention Learning (CAL) mechanism, focusing on vertebral regions in noisy X-rays. Additionally, a patient-specific pre-training strategy progressively adapts the RadGS-Reg from simulated to real data while simultaneously learning vertebral shape prior knowledge. Experiments on in-house datasets demonstrate the state-of-the-art performance for both tasks, surpassing existing methods.
 
 - *2024.08* (In method planning) The clinical application of accurate measurement and 3D modeling of the whole spine based on artificial intelligence in kyphosis osteotomy surgery
 
@@ -54,7 +64,7 @@ We obtained 11 sequences of MRI images, and constructed a new classification net
 
 Tumour-infiltrating lmphocytes (TILs), as a new prognostic biomarker, are of important clinical value and have an association with improved survival rates and higher response rates to neoadjuvant therapy and immunotherapy in breast cancer. We hope to build a new network that fuses omics/clinical/imaging features to achieve better results. Specifically, we hope to build a multimodal fusion pipeline framework based on CrossTransformer and KNN omics feature screening.
 
-- *2024.07* (Under Review) CT section segmentation of nasopharynx
+- *2024.07* (Under Review, [BMC Medical Imaging](https://bmcmedimaging.biomedcentral.com/)) Establishment of AI-assisted diagnosis of the infraorbital posterior ethmoid cells based on deep learning
 
 ![](/images/nasopharynx.png){:width="400px" style="display: block; margin: auto"}
 
