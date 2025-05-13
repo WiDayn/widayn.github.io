@@ -32,7 +32,7 @@ In terms of competitions, I have won two national-level award, two provincial-le
 # 🔥 News
 [^_^]: #- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-- *2025.05*: &nbsp;🎉🎉 One paper was accepted by [MICCAI25](https://conferences.miccai.org/2025)(CCF-B, SCI).(Early accept, acceptance rate: ~11%)
+- *2025.05*: &nbsp;🎉🎉 One paper was accepted by [MICCAI25](https://conferences.miccai.org/2025)(CCF-B, SCI).(Early accept, acceptance rate: 9%)
 - *2024.10*: &nbsp;🎉🎉 One paper was accepted by [BIBM24](https://ieeebibm.org/BIBM2024/)(CCF-B) as short paper.(Acceptance rate: 21%)
 
 
