@@ -26,6 +26,7 @@ My major is Computer Science and Technology. I primarily worked on medical image
 # 🔥 News
 [^_^]: #- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
+- *2025.07*: &nbsp;🎉🎉 One paper was accepted by [BMC Medical Image](https://bmcmedimaging.biomedcentral.com/articles)(SCI, JCR-Q1).
 - *2025.05*: &nbsp;🎉🎉 One paper was accepted by [MICCAI25](https://conferences.miccai.org/2025)(CCF-B, SCI).(Early accept, acceptance rate: 9%)
 - *2024.10*: &nbsp;🎉🎉 One paper was accepted by [BIBM24](https://ieeebibm.org/BIBM2024/)(CCF-B) as short paper.(Acceptance rate: 21%)
 
@@ -60,7 +61,7 @@ We obtained 11 sequences of MRI images, and constructed a new classification net
 
 Tumour-infiltrating lmphocytes (TILs), as a new prognostic biomarker, are of important clinical value and have an association with improved survival rates and higher response rates to neoadjuvant therapy and immunotherapy in breast cancer. We hope to build a new network that fuses omics/clinical/imaging features to achieve better results. Specifically, we hope to build a multimodal fusion pipeline framework based on CrossTransformer and KNN omics feature screening.
 
-- *2024.07* (Under Review, [BMC Medical Imaging](https://bmcmedimaging.biomedcentral.com/)) Establishment of AI-assisted diagnosis of the infraorbital posterior ethmoid cells based on deep learning
+- *2024.07* ([BMC Medical Imaging](https://bmcmedimaging.biomedcentral.com/)) Establishment of AI-assisted diagnosis of the infraorbital posterior ethmoid cells based on deep learning
 
 ![](/images/nasopharynx.png){:width="400px" style="display: block; margin: auto"}
 
