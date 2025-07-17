@@ -45,15 +45,7 @@ My major is Computer Science and Technology. I primarily worked on medical image
 
 Computed Tomography (CT)/X-ray registration in image-guided navigation remains challenging because of its stringent requirements for high accuracy and real-time performance. Traditional "render and compare" methods, relying on iterative projection and comparison, suffer from spatial information loss and domain gap. 3D reconstruction from biplanar X-rays supplements spatial and shape information for 2D/3D registration, but current methods are limited by dense-view requirements and struggles with noisy X-rays. To address these limitations, we introduce RadGS-Reg, a novel framework for vertebral-level CT/X-ray registration through joint 3D Radiative Gaussians (RadGS) reconstruction and 3D/3D registration. Specifically, our biplanar X-rays vertebral RadGS reconstruction module explores learning-based RadGS reconstruction method with a Counterfactual Attention Learning (CAL) mechanism, focusing on vertebral regions in noisy X-rays. Additionally, a patient-specific pre-training strategy progressively adapts the RadGS-Reg from simulated to real data while simultaneously learning vertebral shape prior knowledge. Experiments on in-house datasets demonstrate the state-of-the-art performance for both tasks, surpassing existing methods.
 
-- *2024.08* (In method planning) The clinical application of accurate measurement and 3D modeling of the whole spine based on artificial intelligence in kyphosis osteotomy surgery
-
-![](/images/osteotomy-workflow-1.png){:width="400px" style="display: block; margin: auto"}
-
-- *2024.08* (Now working) Classification of capsular breakthrough in thyroid cancer
-
-We obtained 11 sequences of MRI images, and constructed a new classification network based on mamba, which exceeded the existing classification models on this task. In the next step, we will introduce a new method on multi-modal fusion to further improve its performance. This work was carried out in cooperation with Lishui Central Hospital.
-
-- *2024.08* (Writing Stage, 本科毕业论文) Dual-Energy CT Tumour-infiltrating Lymphocyte (TIL) Prediction in Breast Cancer / 基于双能CT的深度影像组学预测乳腺癌肿瘤浸润淋巴细胞（TIL）水平研究
+- *2024.08* (本科毕业论文) Dual-Energy CT Tumour-infiltrating Lymphocyte (TIL) Prediction in Breast Cancer / 基于双能CT的深度影像组学预测乳腺癌肿瘤浸润淋巴细胞（TIL）水平研究
 
 ![](/images/TIL_2.png){:width="600px" style="display: block; margin: auto"}
 
