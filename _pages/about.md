@@ -27,13 +27,13 @@ My major is Computer Science and Technology. I primarily worked on medical image
 [^_^]: #- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 - *2025.07*: &nbsp;🎉🎉 One paper was accepted by [BMC Medical Image](https://bmcmedimaging.biomedcentral.com/articles)(SCI, JCR-Q1).
-- *2025.05*: &nbsp;🎉🎉 One paper was accepted by [MICCAI25](https://conferences.miccai.org/2025)(CCF-B, SCI).(Early accept, acceptance rate: 9%)
+- *2025.05*: &nbsp;🎉🎉 One paper was accepted by [MICCAI25](https://conferences.miccai.org/2025)(CCF-B, SCI).(Early accept, *Oral*, acceptance rate: 9%)
 - *2024.10*: &nbsp;🎉🎉 One paper was accepted by [BIBM24](https://ieeebibm.org/BIBM2024/)(CCF-B) as short paper.(Acceptance rate: 21%)
 
 
 # 📝 Projects
 
-- *2025.05* ([MICCAI25](https://conferences.miccai.org/2025)) RadGS-Reg: Registering Spine CT with Biplanar X-rays via Joint 3D Radiative Gaussians Reconstruction and 3D/3D Registration
+- *2025.05* ([MICCAI25 *Oral*](https://conferences.miccai.org/2025)) RadGS-Reg: Registering Spine CT with Biplanar X-rays via Joint 3D Radiative Gaussians Reconstruction and 3D/3D Registration
 
 <div style="display: flex; justify-content: center; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
   <img src="/images/radgs.jpg" alt="Description of image" style="width: 400px;">
