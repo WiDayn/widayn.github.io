@@ -37,10 +37,32 @@ My major is Computer Science and Technology. I primarily worked on medical image
 
 <div style="display: flex; justify-content: center; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
   <img src="/images/radgs.jpg" alt="Description of image" style="width: 400px;">
-  <video width="400px" controls>
+  <video width="400px" controls preload="metadata" crossorigin="anonymous">
+    <source src="/images/radgs_video.mp4" type="video/mp4; codecs='avc1.42E01E, mp4a.40.2'">
     <source src="/images/radgs_video.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
+  <script>
+    // 确保视频被正确识别为视频而不是音频
+    document.addEventListener('DOMContentLoaded', function() {
+      const video = document.querySelector('video[src*="radgs_video.mp4"], video source[src*="radgs_video.mp4"]').closest('video');
+      if (video) {
+        // 设置视频属性以确保正确识别
+        video.setAttribute('data-type', 'video');
+        video.setAttribute('data-format', 'mp4');
+        
+        // 监听加载事件
+        video.addEventListener('loadedmetadata', function() {
+          console.log('Video loaded with duration:', video.duration, 'seconds');
+        });
+        
+        // 监听错误事件
+        video.addEventListener('error', function(e) {
+          console.error('Video loading error:', e);
+        });
+      }
+    });
+  </script>
 </div>
 
 Computed Tomography (CT)/X-ray registration in image-guided navigation remains challenging because of its stringent requirements for high accuracy and real-time performance. Traditional "render and compare" methods, relying on iterative projection and comparison, suffer from spatial information loss and domain gap. 3D reconstruction from biplanar X-rays supplements spatial and shape information for 2D/3D registration, but current methods are limited by dense-view requirements and struggles with noisy X-rays. To address these limitations, we introduce RadGS-Reg, a novel framework for vertebral-level CT/X-ray registration through joint 3D Radiative Gaussians (RadGS) reconstruction and 3D/3D registration. Specifically, our biplanar X-rays vertebral RadGS reconstruction module explores learning-based RadGS reconstruction method with a Counterfactual Attention Learning (CAL) mechanism, focusing on vertebral regions in noisy X-rays. Additionally, a patient-specific pre-training strategy progressively adapts the RadGS-Reg from simulated to real data while simultaneously learning vertebral shape prior knowledge. Experiments on in-house datasets demonstrate the state-of-the-art performance for both tasks, surpassing existing methods.
