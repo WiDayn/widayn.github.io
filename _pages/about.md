@@ -37,7 +37,10 @@ My major is Computer Science and Technology. I primarily worked on medical image
 
 <div style="display: flex; justify-content: center; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
   <img src="/images/radgs.jpg" alt="Description of image" style="width: 400px;">
-  <a href="/images/radgs_video.mp4" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #007bff; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">
+</div>
+<div>
+<div style="display: flex; justify-content: center; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
+<a href="/images/radgs_video.mp4" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #007bff; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">
     🎥 View the demo video
   </a>
 </div>
