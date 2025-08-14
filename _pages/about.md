@@ -37,7 +37,7 @@ My major is Computer Science and Technology. I primarily worked on medical image
 
 ![](/images/radgs.jpg){:width="600px" style="display: block; margin: auto"}
 
-<div style="display: flex; justify-content: center; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
   <img src="/images/recon_results.gif" alt="Rebuild Results" style="width: 400px;">
   <img src="/images/reg_results.gif" alt="Register Results" style="width: 400px;">
 </div>
