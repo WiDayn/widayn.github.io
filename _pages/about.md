@@ -35,8 +35,9 @@ My major is Computer Science and Technology. I primarily worked on medical image
 
 - *2025.05* ([MICCAI25 *Oral*](https://conferences.miccai.org/2025)) RadGS-Reg: Registering Spine CT with Biplanar X-rays via Joint 3D Radiative Gaussians Reconstruction and 3D/3D Registration
 
+![](/images/radgs.jpg){:width="600px" style="display: block; margin: auto"}
+
 <div style="display: flex; justify-content: center; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
-  <img src="/images/radgs.jpg" alt="Description of image" style="width: 400px;">
   <img src="/images/recon_results.gif" alt="Rebuild Results" style="width: 400px;">
   <img src="/images/reg_results.gif" alt="Register Results" style="width: 400px;">
 </div>
