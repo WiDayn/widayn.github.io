@@ -17,19 +17,17 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an undergraduate student studying at College of Computer Science and Software Engineering,  Hohai University([河海大学](https://en.wikipedia.org/wiki/Hohai_University)).
+I am a postgraduate student studying at City University of HongKong now, I got my Bachelor's degree at College of Computer Science and Software Engineering, Hohai University.
 
 My major is Computer Science and Technology. I primarily worked on medical image processing. I participated in several projects and tasks at the ChangZhou Key Laboratory of Digital Technology on Graphics and Orthopaedic implants([常州市图形图像与骨科植入物数字化技术重点实验室](https://dtgoi.hhu.edu.cn/main.htm)) and SuZhou Institute of Biomedical Engineering and Technology Chinese Academy of Sciences([中国科学院苏州生物医学工程技术研究所]("https://sibet.cas.cn/")). My work involved 3D/2D registration, object detection, and image segmentation.
 
 ![](/images/research_field.png){:width="400px" style="display: block; margin: auto"}
 
 # 🔥 News
-[^_^]: #- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 - *2025.07*: &nbsp;🎉🎉 One paper was accepted by [BMC Medical Image](https://bmcmedimaging.biomedcentral.com/articles)(SCI, JCR-Q1).
 - *2025.05*: &nbsp;🎉🎉 One paper was accepted by [MICCAI25](https://conferences.miccai.org/2025)(CCF-B, SCI).(Early accept, *Oral*, acceptance rate: 9%)
 - *2024.10*: &nbsp;🎉🎉 One paper was accepted by [BIBM24](https://ieeebibm.org/BIBM2024/)(CCF-B) as short paper.(Acceptance rate: 21%)
-
 
 # 📝 Projects
 
@@ -55,7 +53,7 @@ Tumour-infiltrating lmphocytes (TILs), as a new prognostic biomarker, are of imp
 
 - *2024.07* ([BMC Medical Imaging](https://bmcmedimaging.biomedcentral.com/)) Establishment of AI-assisted diagnosis of the infraorbital posterior ethmoid cells based on deep learning
 
-![](/images/nasopharynx.png){:width="400px" style="display: block; margin: auto"}
+![](/images/BMC_seg.png){:width="400px" style="display: block; margin: auto"}
 
 The ethmoidal chamber of the posterior frontal sinus is a possible structure in the frontal sinus, located in the last part of the frontal sinus, and is highly associated with the risk of chronic sinusitis. Wehopetodetermine whether the patient has this structure through the segmentation of CT sections, so as to achieve the purpose of assisting doctors in diagnosis. This work is in cooperation with the Department of Otolaryngology of Nanjing Tongren Hospital.
 
@@ -123,7 +121,8 @@ The project is based on the Advantech WISE-PaaS Industrial IoT Cloud platform an
 - *2021.12* The 10th Hohai University Programming Contest, 1st Prize.
 
 # 📖 Educations
-- *2021.09 - 2025.06 (now)*, College of Computer Science and Software Engineering, Hohai University. 
+- *2025.09 - now*, Department of Computer Science, City University of HongKong. 
+- *2021.09 - 2025.06*, College of Computer Science and Software Engineering, Hohai University. 
 - *2018.09 - 2021.06*, Guangdong Overseas Chinese High School, GuangZhou.
 - *2015.09 - 2018.06*, Guangzhou No.2 Middle School(Main campus), Guangzhou.
 
