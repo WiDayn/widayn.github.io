@@ -1,0 +1,208 @@
+/* Base Styles */
+body {
+  font-family: "Times New Roman", "SimSun", serif;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #000;
+  background-color: #fff;
+  margin: 0;
+  padding: 20px;
+}
+
+/* Links */
+a {
+  color: #224b8d;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Name (Header) */
+name {
+  font-size: 28px;
+  font-weight: bold;
+  font-family: "Times New Roman", "SimSun", serif;
+}
+
+/* Section Headings */
+heading {
+  font-size: 22px;
+  font-weight: bold;
+  font-family: "Times New Roman", "SimSun", serif;
+  display: block;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #ccc;
+  margin-bottom: 10px;
+}
+
+/* Paper Titles */
+papertitle {
+  font-size: 16px;
+  font-weight: bold;
+  font-family: "Times New Roman", "SimSun", serif;
+}
+
+papertitle a {
+  color: #000;
+}
+
+papertitle a:hover {
+  color: #224b8d;
+}
+
+/* Paragraphs */
+p {
+  margin: 10px 0;
+}
+
+/* List Items */
+li {
+  margin: 5px 0;
+}
+
+/* ========== Table Layout Classes ========== */
+
+/* Main container table */
+.table-main {
+  width: 100%;
+  max-width: 830px;
+  border: 0;
+  border-spacing: 0;
+  border-collapse: separate;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Inner tables */
+.table-inner {
+  width: 100%;
+  border: 0;
+  border-spacing: 0;
+  border-collapse: separate;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* No padding */
+.no-padding {
+  padding: 0;
+}
+
+/* ========== Header Section ========== */
+
+/* Avatar cell */
+.td-avatar {
+  padding: 2.5%;
+  width: 16%;
+  max-width: 16%;
+  vertical-align: middle;
+}
+
+/* Avatar image */
+.img-avatar {
+  width: 100%;
+  max-width: 100%;
+}
+
+/* Bio cell */
+.td-bio {
+  padding: 2.5%;
+  width: 50%;
+  vertical-align: middle;
+}
+
+/* Centered text */
+.text-center {
+  text-align: center;
+}
+
+/* ========== Section Styles ========== */
+
+/* Section heading cell */
+.td-heading {
+  padding: 20px;
+  width: 100%;
+  vertical-align: middle;
+}
+
+/* Section content cell */
+.td-content {
+  padding: 10px 20px;
+  width: 100%;
+  vertical-align: middle;
+}
+
+/* ========== Project Styles ========== */
+
+/* Project image cell */
+.td-project-img {
+  padding: 20px;
+  width: 35%;
+  vertical-align: middle;
+}
+
+/* Project content cell */
+.td-project-content {
+  padding: 20px;
+  width: 65%;
+  vertical-align: middle;
+}
+
+/* Project images */
+.img-project {
+  width: 320px;
+  max-width: 100%;
+  border: none;
+}
+
+/* Project description text */
+.td-project-content p {
+  font-size: 14px;
+  margin: 8px 0;
+}
+
+/* ========== Footer ========== */
+
+.footer-text {
+  text-align: right;
+  font-size: small;
+  color: gray;
+}
+
+/* ========== Responsive ========== */
+
+@media screen and (max-width: 768px) {
+  body {
+    padding: 10px;
+    font-size: 14px;
+  }
+
+  name {
+    font-size: 22px;
+  }
+
+  heading {
+    font-size: 18px;
+  }
+
+  .td-avatar,
+  .td-bio,
+  .td-project-img,
+  .td-project-content,
+  .td-heading,
+  .td-content {
+    display: block;
+    width: 100% !important;
+    padding: 10px !important;
+  }
+
+  .img-project,
+  .img-avatar {
+    width: 100% !important;
+    max-width: 300px;
+    margin: 0 auto;
+    display: block;
+  }
+}
