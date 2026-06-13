@@ -31,6 +31,22 @@ My major is Computer Science and Technology. I primarily worked on medical image
 
 # 📝 Projects
 
+- *2026* ([MICCAI26](https://conferences.miccai.org/2026)) FlowReg: Reconstruction-Guided Flow Matching for Universal Spinal CT/X-ray Registration
+
+![](/images/flowreg_framework.jpg){:width="600px" style="display: block; margin: auto"}
+
+**Authors:** Ao Shen, Junfeng Jiang, Xueming Fu, Qiang Zeng, Ye Tang, Zhengming Chen, Luming Nong, Feng Wang, Kevin Zhou.
+
+FlowReg is a versatile end-to-end framework for spinal CT/X-ray registration that supports both single- and multi-vertebrae scenarios. It leverages CT volume reconstruction from intraoperative biplanar X-rays as a robust spatial prior, learns deterministic pose gradients on the SE(3) manifold through a Riemannian flow matching branch, and uses Difference-Aware Feature Fusion to bridge cross-modal gaps between DRRs and X-rays. Experiments on synthetic and real clinical datasets demonstrate strong reconstruction quality, registration accuracy, and real-time intraoperative potential.
+
+- *2026* ([MICCAI26](https://conferences.miccai.org/2026)) MedCenterDet: A Center-based Object Detection Framework for 3D Medical Image
+
+![](/images/medcenterdet_framework.jpg){:width="600px" style="display: block; margin: auto"}
+
+**Authors:** Qiang Zeng, Ao Shen, Xiangtong Du, Xiaoyu Xu, Shaohua Zhi, Wufeng Xue, Fei Pan.
+
+MedCenterDet is an anchor-free, center-based object detection framework designed for 3D medical images. It directly predicts object centers through heatmap regression, analytically decodes bounding box dimensions with anisotropic Gaussian target generation, and introduces Counterfactual Attention Learning to guide the network toward clinically relevant regions. A two-stage refinement module further improves spatial alignment and geometric precision, achieving competitive performance with fewer parameters on public 3D datasets.
+
 - *2025.05* ([MICCAI25 *Oral*](https://conferences.miccai.org/2025)) RadGS-Reg: Registering Spine CT with Biplanar X-rays via Joint 3D Radiative Gaussians Reconstruction and 3D/3D Registration
 
 ![](/images/radgs.jpg){:width="600px" style="display: block; margin: auto"}
